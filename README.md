@@ -27,30 +27,19 @@ My research pipeline involves heavy statistical modeling and low-latency executi
 
 ### 🔬 Active Research (Open Source)
 
-* **[`spreadlab-cointegration`]([https://github.com/Dmytrostrateg/spreadlab-cointegration](https://github.com/Dmytrostrateg/spreadlab-cointegration))**
+Here are the implementations of my recent quantitative studies:
+
+* **[`microstructure-latency-sim`](https://github.com/Dmytrostrateg/microstructure-latency-sim)**
+    * *Two-venue top-of-book simulator with latency feed & microprice features.*
+* **[`spreadlab-cointegration`](https://github.com/Dmytrostrateg/spreadlab-cointegration)**
     * *Cointegration pairs trading using Engle-Granger & Kalman Filters.*
-* **[`avellaneda-stoikov-mm`]([https://github.com/Dmytrostrateg/avellaneda-stoikov-mm](https://github.com/Dmytrostrateg/avellaneda-stoikov-mm))**
+* **[`avellaneda-stoikov-mm`](https://github.com/Dmytrostrateg/avellaneda-stoikov-mm)**
     * *Inventory-based market making model simulation & calibration.*
-* **[`noarb-vol-surface`]([https://github.com/Dmytrostrateg/noarb-vol-surface](https://github.com/Dmytrostrateg/noarb-vol-surface))**
+* **[`noarb-vol-surface`](https://github.com/Dmytrostrateg/noarb-vol-surface)**
     * *Implied volatility surface construction with no-arbitrage constraints.*
-* **[`graph-arb-engine`]([https://github.com/Dmytrostrateg/graph-arb-engine](https://github.com/Dmytrostrateg/graph-arb-engine))**
+* **[`graph-arb-engine`](https://github.com/Dmytrostrateg/graph-arb-engine)**
     * *Bellman-Ford algorithm application for multi-hop FX arbitrage.*
 
 ---
-
-### 📡 System Telemetry
-
-```yaml
-user@quant-lab:~$ ./show-stats.sh
-
-[User]      Dmytrostrateg
-[Rank]      Top 10% (Quant/HFT)
-[Commits]   1,204 (Year to Date)
-[Stack]     Rust (40%), Python (35%), C++ (25%)
-[Uptime]    99.99%
-
-> Running backtest simulation... [================>...] 85%
-> Optimizing execution latency... DONE (42ns)
-```
 
 > *"In the short run, the market is a voting machine but in the long run, it is a weighing machine."*
