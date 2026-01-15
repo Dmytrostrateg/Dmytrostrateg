@@ -8,6 +8,8 @@
 **Focus:** Stochastic Calculus, Market Microstructure, DeFi Liquidity
 **Status:** Modeling Volatility Surface 📉
 
+</div>
+
 ---
 
 ### 📐 Methodology & Stack
@@ -41,10 +43,8 @@ Here are the implementations of my recent quantitative studies:
 ### 📡 Github Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dmytrostrateg&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmytrostrateg&layout=compact&theme=graywhite&hide_border=true&langs_count=6" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dmytrostrateg&show_icons=true&theme=transparent&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmytrostrateg&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="150" alt="langs" />
 </p>
 
 > *"In the short run, the market is a voting machine but in the long run, it is a weighing machine."*
-
-</div>
