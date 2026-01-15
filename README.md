@@ -43,8 +43,10 @@ Here are the implementations of my recent quantitative studies:
 ### 📡 Github Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dmytrostrateg&show_icons=true&theme=transparent&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmytrostrateg&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="150" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dmytrostrateg&show_icons=true&theme=dark&hide_border=true" alt="Dmytrostrateg Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmytrostrateg&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Langs" />
 </p>
 
 > *"In the short run, the market is a voting machine but in the long run, it is a weighing machine."*
